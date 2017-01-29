@@ -33,6 +33,7 @@ section article {
     background-color: #f2f2f2;
     float: left;
     margin:20px;
+    border:1px solid #000;
 }
 
 section article p {
@@ -45,6 +46,9 @@ section .label {
     margin-bottom: 10px;
     padding:10px 25px;
     background-color: #DDD;
+    border:1px solid #000;
+    border-top:none;
+    border-right:none;
 }
 
 section .label.pink {
