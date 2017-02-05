@@ -67,7 +67,7 @@ section {
     background-color: #888;
 }
 
-.nav .navbar-nav ul {
+ul.nav.navbar-nav{
     text-align: center;
 }
 /*************************************************/
